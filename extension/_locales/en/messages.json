@@ -1,0 +1,14 @@
+{
+   "extName": {
+      "message": "Bookmarks"
+   },
+   "extTitle":{
+      "message": "my Bookmarks"
+   },
+   "extDescription": {
+      "message": "a convenient bookmarks manager in Chrome"
+   },
+   "extLanguage": {
+      "message": "en"
+   }
+}

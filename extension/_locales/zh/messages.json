@@ -1,0 +1,14 @@
+{
+   "extName": {
+      "message": "书签管理"
+   },
+   "extTitle":{
+      "message": "我的书签管理器"
+   },
+   "extDescription": {
+      "message": "Chrome书签管理扩展"
+   },
+   "extLanguage": {
+      "message": "zh"
+   }
+}

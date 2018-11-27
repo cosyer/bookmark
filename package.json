@@ -1,0 +1,37 @@
+{
+  "name": "Bookmark",
+  "version": "1.0.0",
+  "description": "bookmark",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -w",
+    "prob": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cosyer/bookmark.git"
+  },
+  "keywords": [
+    "chrome-extension",
+    "bookmark"
+  ],
+  "author": "cosyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cosyer/bookmark/issues"
+  },
+  "homepage": "https://github.com/cosuer/bookmark#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.5",
+    "html-webpack-plugin": "^2.30.1",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
+    "style-loader": "^0.19.0",
+    "url-loader": "^0.6.2",
+    "webpack": "^3.8.1"
+  }
+}
