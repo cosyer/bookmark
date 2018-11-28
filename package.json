@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack -w",
-    "prob": "webpack -p"
+    "build": "webpack -p"
   },
   "repository": {
     "type": "git",
@@ -16,11 +16,10 @@
     "bookmark"
   ],
   "author": "cosyer",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/cosyer/bookmark/issues"
   },
-  "homepage": "https://github.com/cosuer/bookmark#readme",
+  "homepage": "https://github.com/cosyer/bookmark#readme",
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",

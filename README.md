@@ -1,9 +1,21 @@
-### 扩展程序入门
-
 ### chrome扩展程序demo-hello world
-[博客地址]()
+[博客地址](https://mydearest.cn/chrome插件扩展程序开发指南.html)
 
 ### chrome扩展程序demo-书签管理
+
+#### Getting Started
+```bash
+npm install
+npm run dev
+```
+#### Package
+```bash
+npm run build
+```
+> 输出目录为extension/dist/
+
+#### Using
+打开chrome，打开菜单，找到扩展程序选项更多工具>扩展程序路径下。点击加载已解压的扩展程序，添加extension文件夹就OK啦O(∩_∩)O~~！
 
 ### 参考文档
 - [chrome 扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)

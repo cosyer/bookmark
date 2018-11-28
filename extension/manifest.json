@@ -22,6 +22,6 @@
     "<all_urls>"
   ],
   "content_scripts":[{
-    "matches": [ "<all_urls>" ]
-,"js": ["dist/index.js"]}]
+    "matches": [ "<all_urls>" ],
+    "js": ["dist/index.js"]}]
 }
